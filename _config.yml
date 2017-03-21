@@ -33,7 +33,7 @@ slogan        : 'A Minimalistic Jekyll Theme'
 lang: "en"
 
 # Build settings
-url           : 'https://anonymoussc.github.io'
+url           : 'https://anonymoussc.github.io/vlog'
 baseurl       : '/vlog'
 markdown      : kramdown
 highlighter   : rouge
