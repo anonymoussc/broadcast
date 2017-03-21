@@ -34,7 +34,7 @@ lang: "en"
 
 # Build settings
 url           : 'https://anonymoussc.github.io'
-baseurl       : '/simplicity'
+baseurl       : '/vlog'
 markdown      : kramdown
 highlighter   : rouge
 permalink     : /:categories/:title/
