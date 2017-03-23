@@ -25,9 +25,9 @@
 
 
 # Title and description of your site
-title         : 'Simplicity'
-description   : 'Simplicity is a fast and easy to use jekyll theme for minimalists concentrating on elegance and flexibility.'
-slogan        : 'A Minimalistic Jekyll Theme'
+title         : 'anonymoussc'
+description   : 'Nunquam gratia compater est seychelles deuss trabem, tanquam azureus zirbus. Experimentum solite lixa ad neuter epos.'
+slogan        : 'Experimentum solite lixa ad neuter epos'
 
 # The language setting is used in /includes/header.html for html-settings
 lang: "en"
@@ -140,7 +140,7 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_site_verification   : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+# google_site_verification   : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 # bing_webmastertools_id   : ''
 # alexa_verify_id          : ''
 

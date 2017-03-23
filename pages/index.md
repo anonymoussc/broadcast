@@ -1,6 +1,6 @@
 ---
-title:              'Simplicity Jekyll Theme – Minimalistic, flexible and full of functions'
-meta_description:   'A flexible, superfast and easily customizable Jekyll Theme with no Javascript, different layouts and splendid typography.'
+title:              'anonymoussc | experimentum solite lixa ad neuter epos.'
+meta_description:   'Nunquam gratia compater est seychelles deuss trabem, tanquam azureus zirbus. Experimentum solite lixa ad neuter epos.'
 layout:             frontpage
 permalink: /
 ---
