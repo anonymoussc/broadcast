@@ -1,4 +1,4 @@
 ---
-video: 'https://youtu.be/v=TFquAhRviA4'
+video: 'https://youtu.be/TFquAhRviA4'
 ---
 MagSonics & Ane Flem - Why
