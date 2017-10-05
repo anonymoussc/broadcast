@@ -1,4 +1,4 @@
 ---
-video: 'https://youtu.be/HbigsU886JE&t=19s'
+video: 'https://youtu.be/HbigsU886JE'
 ---
 Pops outta nowhere
